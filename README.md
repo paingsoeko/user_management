@@ -1,6 +1,9 @@
 # user_management
 User Management Template (Simple Project)
 
+Build the "user_management" folder under C:\xampp\htdocs\ and run it.
+C:\xampp\htdocs\user_management
+---------------------------------
 Default Account
 ===============
 username: admin
